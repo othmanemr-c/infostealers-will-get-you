@@ -5,6 +5,9 @@ Technical cybersecurity presentation focused on Infostealer malware, credential 
 
 🎤 Presented with GeekBlabla community  
 📺 Shared publicly on LinkedIn / YouTube
+https://www.youtube.com/live/Q3dS7hGRu94?si=WCK6O0TrBmQyXPgy&t=1096
+https://www.linkedin.com/posts/othmane-mrichcha_cybersecurity-infostealer-malware-activity-7425603715015016448-LGqd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9dXZwB2Jsz8mtzv8cT5Cx3ZLEddyNgis4
+
 
 ---
 
