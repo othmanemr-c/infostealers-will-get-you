@@ -1,5 +1,5 @@
 # infostealers-will-get-you
-# Infostealers Will Get You
+
 
 Technical cybersecurity presentation focused on Infostealer malware, credential theft campaigns, RedLine Stealer analysis, and defensive detection strategies.
 
